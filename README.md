@@ -1,2 +1,2 @@
 # Main
-Business Data Science Master's Program Research Proposal
+This project review clinical trial data with k-armed bandits algorithms.
